@@ -6,4 +6,4 @@ By day, I work at an IT company and help customers deliver the best software. By
 My brain runs on caffeine, music, and dystopian novels 📚.
 
 ### Extras
-- Get 50% off a GitKraken Pro subscription with my referral link 🐙: [GitKraken Pro - 50% off](https://gitkraken.cello.so/377anHeTbzr)
+- Get 50% off a GitKraken Pro subscription with my referral link 🐙: <a target="_blank" href="https://gitkraken.cello.so/377anHeTbzr">GitKraken Pro - 50% off</a>
