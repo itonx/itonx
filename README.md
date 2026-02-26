@@ -10,7 +10,7 @@ Currently reading `Hackers: Heroes of the Computer Revolution` by [Steven Levy](
 | ----------- | ----------- | ----------- |
 |Oblivionx| App for file sharing and screen + audio streaming on your local network|[Open](https://itonx.dev/apps/oblivionx/)|
 |ShelterVault| Password manager|[Open](https://itonx.dev/apps/sheltervault/)|
-|Code Alchemy|Every day tools for developer|[Open](https://codealchemy.app/)|
+|Code Alchemy|Everyday tools for developer|[Open](https://codealchemy.app/)|
 |Desktiny|WinUI 3 library to boost desktop development apps|[Open](https://itonx.dev/apps/desktiny/)|
 
 > NOTE: All my apps are open source. If you want to contribute, let me know.
