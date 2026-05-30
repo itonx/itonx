@@ -3,7 +3,10 @@ I'm a geek who builds apps and stays fit. Currently pursuing a Master's in Artif
 
 I have a blog [itonx.dev/blog](https://itonx.dev/blog) :D
 
-Currently reading `Hackers: Heroes of the Computer Revolution` by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy)!
+Currently reading `Crafting Interpreters` by [Robert Nystrom](https://craftinginterpreters.com/)!
+
+Already read:
+- `Hackers: Heroes of the Computer Revolution` by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy)! (finished reading on 5/30/2026)
 
 # My Apps
 |App|Description|Link|
