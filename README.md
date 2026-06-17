@@ -17,6 +17,3 @@ Already read:
 |Desktiny|WinUI 3 library to boost desktop development apps|[Open](https://itonx.dev/apps/desktiny/)|
 
 > NOTE: All my apps are open source. If you want to contribute, let me know.
-
-# Additional stuff
-u thinking on buying a GitKraken Pro subscription 🐙? Use [my code](https://gitkraken.cello.so/377anHeTbzr) to get 50% off discount.
