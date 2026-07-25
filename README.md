@@ -15,5 +15,6 @@ Already read:
 |ShelterVault| Password manager|[Open](https://itonx.dev/apps/sheltervault/)|
 |Code Alchemy|Everyday tools for developer|[Open](https://codealchemy.app/)|
 |Desktiny|WinUI 3 library to boost desktop development apps|[Open](https://itonx.dev/apps/desktiny/)|
+|GitBrother|A Git desktop client built from the ground up using WinUI 3|[Open](https://itonx.dev/apps/gitbrother/)
 
 > NOTE: All my apps are open source. If you want to contribute, let me know.
