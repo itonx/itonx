@@ -6,7 +6,8 @@ I have a blog [itonx.dev/blog](https://itonx.dev/blog) :D
 Currently reading `Crafting Interpreters` by [Robert Nystrom](https://craftinginterpreters.com/)!
 
 Already read:
-- `Hackers: Heroes of the Computer Revolution` by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy)! (finished reading on 5/30/2026)
+- `Why Machines Learn: The Elegant Math Behind Modern AI` by [Anil Ananthaswamy](https://anilananthaswamy.com/)! (08/30/2026)
+- `Hackers: Heroes of the Computer Revolution` by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy)! (5/30/2026)
 
 # My Apps
 |App|Description|Link|
