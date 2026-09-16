@@ -14,7 +14,7 @@ Already read:
 | ----------- | ----------- | ----------- |
 |Oblivionx| App for file sharing and screen + audio streaming on your local network|[Open](https://itonx.dev/apps/oblivionx/)|
 |ShelterVault| Password manager|[Open](https://itonx.dev/apps/sheltervault/)|
-|Code Alchemy|Everyday tools for developer|[Open](https://codealchemy.app/)|
+|Code Alchemy|Everyday tools for developer|[Open](https://itonx.dev/codealchemy)|
 |Desktiny|WinUI 3 library to boost desktop development apps|[Open](https://itonx.dev/apps/desktiny/)|
 |GitBrother|A Git desktop client built from the ground up using WinUI 3|[Open](https://itonx.dev/apps/gitbrother/)
 
