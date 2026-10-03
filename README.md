@@ -3,9 +3,7 @@ I'm a geek who builds apps and stays fit. Currently pursuing a Master's in Artif
 
 I have a blog [itonx.dev/blog](https://itonx.dev/blog) :D
 
-Currently reading `Crafting Interpreters` by [Robert Nystrom](https://craftinginterpreters.com/)!
-
-Already read:
+Books I've read:
 - `Why Machines Learn: The Elegant Math Behind Modern AI` by [Anil Ananthaswamy](https://anilananthaswamy.com/)! (08/30/2026)
 - `Hackers: Heroes of the Computer Revolution` by [Steven Levy](https://en.wikipedia.org/wiki/Steven_Levy)! (5/30/2026)
 
